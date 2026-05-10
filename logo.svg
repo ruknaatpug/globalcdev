@@ -1,0 +1,7 @@
+<svg width="100" height="60" viewBox="0 0 100 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="60" fill="#F96E00" rx="8"/>
+  <!-- Modern G with curved design -->
+  <path d="M15 30 C15 20 22 15 30 15 C38 15 42 20 42 25 L38 25 C38 22 35 19 30 19 C25 19 19 22 19 30 C19 38 25 41 30 41 L35 41 L35 32 L30 32 L30 28 L39 28 L39 45 L30 45 C22 45 15 40 15 30 Z" fill="black"/>
+  <!-- Modern C with curved design -->
+  <path d="M58 30 C58 20 65 15 73 15 C78 15 82 18 82 22 L78 22 C78 20 76 19 73 19 C68 19 62 22 62 30 C62 38 68 41 73 41 C76 41 78 40 78 38 L82 38 C82 42 78 45 73 45 C65 45 58 40 58 30 Z" fill="black"/>
+</svg>
